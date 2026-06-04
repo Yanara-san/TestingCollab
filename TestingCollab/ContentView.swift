@@ -21,7 +21,13 @@ struct ContentView: View {
         HStack{
             Text("I wanna be")
             Text("Syalalala")
+            Text("Syalalala")
+
         }
+        .padding()
+        .background(Color.blue)
+        .cornerRadius(20)
+        .padding()
     }
 }
 
