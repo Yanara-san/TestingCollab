@@ -17,6 +17,10 @@ struct ContentView: View {
             Text("Ini Perubahannya yak")
         }
         .padding()
+        HStack{
+            Text("I wanna be")
+            Text("Syalalala")
+        }
     }
 }
 
