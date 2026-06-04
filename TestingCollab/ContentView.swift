@@ -21,6 +21,10 @@ struct ContentView: View {
             Text("I wanna be")
             Text("Syalalala")
         }
+        .padding()
+        .background(Color.blue)
+        .cornerRadius(20)
+        .padding()
     }
 }
 
