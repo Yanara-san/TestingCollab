@@ -21,6 +21,11 @@ struct ContentView: View {
         HStack{
             Text("I wanna be")
             Text("Syalalala")
+            Text("Syalalala")
+
+            Text("blelele")
+            Text("blelele")
+            Text("coba conflict")
         }
         .padding()
         .background(Color.blue)
