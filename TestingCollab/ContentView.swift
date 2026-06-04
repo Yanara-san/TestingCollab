@@ -24,6 +24,7 @@ struct ContentView: View {
 
             Text("blelele")
             Text("blelele")
+            Text("coba conflict")
         }
         .padding()
         .background(Color.blue)
